@@ -12,7 +12,7 @@ I don't have professional experience yet, but I regularly work on personal proje
 
 I'm also exploring data analysis using tools like Excel, Power BI, and SQL.</br>
 
-🌱 I'm [learning Object-Oriented Programming (OOP)](https://github.com/lPassword012/JavaFundamentals) and actively working on this repository.</br>
+🌱 I'm [learning Object-Oriented Programming (OOP)](https://github.com/lPassword012/JavaProjects) and actively working on this repository.</br>
 📝 My next step is to study Spring Boot.</br>
 ✅ My English level is A2 — I'm working to improve both my speaking and writing skills.</br>
 
